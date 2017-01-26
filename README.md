@@ -1,6 +1,7 @@
 # store-crawler
 
-The main goal for this project is to be a simple store crawler.
+This is a simples store scraper build with Go(Golang).
+The main goal for this project is to be a simple, fast and run in parallel.
 
 # Running
 
